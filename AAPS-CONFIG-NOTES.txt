@@ -1,0 +1,6 @@
+AAPS build config notes
+=======================
+Custom signing keystore added at keystore/demokeystore.jks
+Configured Actions secrets: KEY_ALIAS, KEY_PASSWORD, STORE_FILE, STORE_PASSWORD
+Built via diyaps/AndroidAPS fork workflow android.yml
+Date: 2026-10-10
